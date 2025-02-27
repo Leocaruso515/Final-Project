@@ -1,8 +1,8 @@
 # Store Profit Calculator
 
-The **Clothing Store Profit Calculator** is a Python-based application designed to help store owners analyze their business profitability. This tool calculates key financial metrics such as profit margins, break-even points, tax adjustments, retail pricing, and sales trends. By inputting basic business parameters, users can quickly determine how different factors affect their store’s profitability and revenue.
+The **Clothing Store Profit Calculator** is a Python application that aims to assist store owners in analyzing the profitability of their business. It computes important financial figures like profit margins, break-even points, tax adjustments, retail prices, and sales trends. With the input of fundamental business parameters, users can immediately see how various factors influence their store's profitability and revenue.
 
-This project was designed to be both user-friendly and functional, incorporating several financial functions that provide meaningful insights for business decision-making. Additionally, the program is interactive, requiring users to input various numerical values for calculations.
+This project was made to be interactive along with being functional, with various financial functions that give insightful data for business decision-making. Also, the program is interactive and asks for various numerical values to be inputted to be calculated.
 
 ## Project Files
 
@@ -39,17 +39,17 @@ This file lists any dependencies needed to run the project. Although the current
 ## Design Decisions
 
 ### Why a Command-Line Interface?
-Given the project's scope, a command-line interface (CLI) was chosen for simplicity and efficiency. This approach allows users to enter their business parameters quickly without needing a graphical user interface (GUI), making it a lightweight yet powerful tool.
+Due to the nature of the project, a command-line interface (CLI) was selected for efficiency and simplicity. This will enable users to input their business parameters rapidly without the requirement of a graphical user interface (GUI), thus being a light but effective tool.
 
 ### Why Include Authentication?
-Although not a full security system, a basic username-password authentication was implemented to reinforce the idea that business financial data is private. This simple step increases the professionalism of the application and encourages best practices for handling sensitive information.
+While not a complete security system, a simple username-password authentication was added to help drive home the point that business financial information is not public. This simple measure enhances the professionalism of the application and promotes good habits for working with sensitive information.
 
 ### Why Use Pytest for Testing?
 `pytest` was chosen because it provides an efficient and structured approach to unit testing. It allows for automated test execution, ensuring that core functionalities remain intact as the project evolves. Additionally, it is easy to integrate and widely used in professional Python development environments.
 
 
 
-The **Store Profit Calculator** is a practical financial analysis tool tailored for small business owners and entrepreneurs. By allowing users to input key financial metrics, the program calculates profit margins, tax adjustments, revenue projections, and more. With a strong foundation in **modular functions and automated testing**, this project is both reliable and extensible for future improvements.
+The **Store Profit Calculator** is a useful financial analysis application designed for entrepreneurs and small business owners. By accepting input of important financial figures, the software computes profit margins, tax adjustments, revenue projections, and others. With a solid underpinning of **modular functions and automated testing**, the project is both trustworthy and maintainable for future enhancements.
 
-This project demonstrates an effective application of Python programming principles while maintaining a clear and structured codebase. Future expansions, such as database support and visualization, would further enhance its value for business users.
+This is a good application of Python programming concepts with clean and well-organized code. More features, like database integration and visualization, would further enhance its utility for business users.
 
