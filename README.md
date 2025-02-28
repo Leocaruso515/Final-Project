@@ -1,4 +1,5 @@
 # Store Profit Calculator
+## Video Demo: https://youtu.be/YUeJrB_B8kg
 
 The **Clothing Store Profit Calculator** is a Python application that aims to assist store owners in analyzing the profitability of their business. It computes important financial figures like profit margins, break-even points, tax adjustments, retail prices, and sales trends. With the input of fundamental business parameters, users can immediately see how various factors influence their store's profitability and revenue.
 
