@@ -47,7 +47,7 @@ While not a complete security system, a simple username-password authentication 
 ### Why Use Pytest for Testing?
 `pytest` was chosen because it provides an efficient and structured approach to unit testing. It allows for automated test execution, ensuring that core functionalities remain intact as the project evolves. Additionally, it is easy to integrate and widely used in professional Python development environments.
 
-Use of AI-Based Tools
+### Use of AI-Based Tools
 
 For this final project, AI-based tools such as ChatGPT, GitHub Copilot, and Bing Chat were used to enhance productivity and assist in code development. However, the essence of the work remains my own, reflecting the knowledge and skills acquired throughout the course. These tools were used as amplifiers rather than substitutes for my own effort and understanding.
 
