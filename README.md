@@ -53,6 +53,7 @@ For this final project, AI-based tools such as ChatGPT, GitHub Copilot, and Bing
 
 As per academic integrity guidelines, any AI-assisted code has been properly cited in the comments of the source code. Failure to cite such tools would constitute a violation of the academic integrity code
 
+### Conclusion
 The **Store Profit Calculator** is a useful financial analysis application designed for entrepreneurs and small business owners. By accepting input of important financial figures, the software computes profit margins, tax adjustments, revenue projections, and others. With a solid underpinning of **modular functions and automated testing**, the project is both trustworthy and maintainable for future enhancements.
 
 This is a good application of Python programming concepts with clean and well-organized code. More features, like database integration and visualization, would further enhance its utility for business users.
